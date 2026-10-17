@@ -1,0 +1,14 @@
+{
+  "name": "linkedin-ad-library-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "LinkedIn Ad Library API example in Python, JavaScript and n8n: export a company's LinkedIn ads to CSV with copy, CTA, impressions and targeting. MCP-ready.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.25.0"
+  }
+}
