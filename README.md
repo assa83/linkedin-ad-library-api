@@ -137,7 +137,7 @@ Sign in with Apify OAuth when asked, or send `Authorization: Bearer <APIFY_TOKEN
 
 ## Pricing
 
-$3.20 per 1,000 ads with full details ($0.0032 per ad; $0.0016 with `skipDetails`), no start fee, pay only for results – see [lagenuina_agency/linkedin-ad-library-scraper](https://apify.com/lagenuina_agency/linkedin-ad-library-scraper).
+From $3.20 per 1,000 ads with full details on the Apify Free plan down to $0.90 on Gold and above (list-only with `skipDetails`: $1.60 down to $0.44), no start fee, pay only for results – see [lagenuina_agency/linkedin-ad-library-scraper](https://apify.com/lagenuina_agency/linkedin-ad-library-scraper).
 
 ## Disclaimer
 
