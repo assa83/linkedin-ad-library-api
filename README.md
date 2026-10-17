@@ -139,6 +139,16 @@ Sign in with Apify OAuth when asked, or send `Authorization: Bearer <APIFY_TOKEN
 
 From $3.20 per 1,000 ads with full details on the Apify Free plan down to $0.90 on Gold and above (list-only with `skipDetails`: $1.60 down to $0.44), no start fee, pay only for results – see [lagenuina_agency/linkedin-ad-library-scraper](https://apify.com/lagenuina_agency/linkedin-ad-library-scraper).
 
+## More tools from Quelli di Carne Genuina
+
+- **Ad intelligence:** [Google Ads Transparency](https://github.com/assa83/google-ads-transparency-api) · [Meta Ad Library](https://github.com/assa83/facebook-ad-library-api) · [TikTok Top Ads](https://github.com/assa83/tiktok-top-ads-api)
+- **Competitor & SEO research:** [Similarweb traffic](https://github.com/assa83/similarweb-traffic-api) · [Google Trends](https://github.com/assa83/google-trends-api-python) · [Google Play](https://github.com/assa83/google-play-scraper-api)
+- **Travel prices:** [Google Hotels](https://github.com/assa83/google-hotels-prices-api) · [Google Flights](https://github.com/assa83/google-flights-api)
+- **Retail prices:** [Woolworths & Coles](https://github.com/assa83/australian-supermarket-prices-api)
+- **Content & social data:** [YouTube Transcript](https://github.com/assa83/youtube-transcript-scraper-api) · [Medium](https://github.com/assa83/medium-scraper-api) · [Likee](https://github.com/assa83/likee-scraper-api)
+
+All actors: [apify.com/lagenuina_agency](https://apify.com/lagenuina_agency) · Tutorials: [assa83.github.io](https://assa83.github.io)
+
 ## Disclaimer
 
 Independent, not affiliated with LinkedIn (not endorsed by LinkedIn Corporation). It reads only publicly available data. Use it in line with the applicable terms and laws.
